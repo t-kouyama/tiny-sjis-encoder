@@ -1,0 +1,26 @@
+{
+  "name": "tiny-sjis-encoder",
+  "version": "1.0.0",
+  "description": "Tiny Shift-JIS(MS932) encoder",
+  "main": "index.min.js",
+  "keywords": [
+    "sjis",
+    "shift-jis",
+    "ms932",
+    "encoder",
+    "japanese",
+    "charset",
+    "encoding",
+    "fast",
+    "tiny"
+  ],
+  "license": "MIT",
+  "types": "index.d.ts",
+  "engines": {
+    "node": ">=8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/t-kouyama/tiny-sjis-encoder.git"
+  }
+}
