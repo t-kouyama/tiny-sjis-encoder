@@ -1,7 +1,7 @@
 {
   "name": "tiny-sjis-encoder",
-  "version": "1.0.0",
-  "description": "Tiny Shift-JIS(MS932) encoder",
+  "version": "1.0.1",
+  "description": "Tiny Shift-JIS(MS932) encoder - Only 806 bytes",
   "main": "index.min.js",
   "keywords": [
     "sjis",
